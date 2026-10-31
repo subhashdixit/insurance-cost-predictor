@@ -1,0 +1,13 @@
+{
+  "old": "Insurance_Prediction",
+  "name": "insurance-cost-predictor",
+  "title": "Insurance Cost Explorer",
+  "kind": "regression",
+  "target": "expenses",
+  "unit": "source expense units",
+  "color": "#257a69",
+  "intro": "Explore a model of the historical expense target from the existing insurance dataset.",
+  "limitations": "Dataset expense units and collection provenance are not independently verified. This is not a current insurance quote, medical advice or eligibility assessment.",
+  "positiveLabel": "1",
+  "negativeLabel": "0"
+}
